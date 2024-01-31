@@ -6,7 +6,7 @@
   <hr style="border-color: #3498db;">
  
   <div id="badges">
-    <a href="linkedin.com/in/ivett-chacaltana">
+    <a href="https://www.linkedin.com/in/ivett-chacaltana">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="mailto:espinoza.ivett.c@gmail.com">
