@@ -26,9 +26,9 @@ I'm a Computer Science and Software Engineering student at UQAM, I transitioned 
 
 - :telescope: This summer, I will be doing my internship in cybersecurity.
 
-- :seedling: I'm currently learning Unity and C#
+- :seedling: I'm currently learning Unity, C# and C++
 
-- :zap: In my free time, I solve CTF and I have a Twitch Channel where I stream all kinds of videogames in PC (I prefer RPG, shooters, adventure).
+- :zap: In my free time, I paint, solve CTF challenges and I have a Twitch Channel where I stream all kinds of videogames in PC (I prefer RPG, shooters, adventure).
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ivett-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivett-chacaltana)
 
