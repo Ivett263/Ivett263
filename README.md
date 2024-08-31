@@ -22,12 +22,12 @@
 ---
 
 ### :woman_technologist: About Me :
-I'm a Computer Science and Software Engineering student at UQAM, I transitioned from a career in Civil Engineering where I graduated from the University of Sherbrooke in 2019 (Master's Degree in Civil Engineering) with a certification in project management.
+I'm a Computer Science and Software Engineering (second year) student at UQAM, I transitioned from a career in Civil Engineering where I graduated from the University of Sherbrooke in 2019 (Master's Degree in Civil Engineering) with a certification in project management.
 I'm really interested in cybersecurity and game development!
 
-- :telescope: This summer, I will be doing my internship in cybersecurity at Bell.
+- :telescope: This summer, I did my internship at Bell in Cybersecurity (DDoS team and Cloud Security)
 
-- :seedling: I'm currently learning Unity and C# because I'm participating in Ubisoft's Game Lab Competition 2024 and also learning C++ !
+- :seedling: I'm currently learning Python, Keras, and TensorFlow through a course on data management and analysis that includes topics like supervised learning, deep learning, and neural networks.
 
 - :zap: In my free time, I paint, solve CTF challenges and I have a Twitch Channel where I stream all kinds of videogames in PC (I prefer RPG, shooters, adventure).
 
