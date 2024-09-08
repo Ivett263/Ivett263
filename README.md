@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <hr style="border-color: #3498db;">
-  <h1> Hi! I'm Ivett 😄 </h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=25C559&background=288A4B00&width=500&lines=Hi!+I'm+Ivett!+%7C+Salut!+C'est+Ivett!+" alt="Typing SVG" /></a><br>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VmemZhZTc1Y2NnYWdka2JpN3Jua2w1NGN6NjhxZW03aDRvazRmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j0HjChGV0J44KrrlGv/giphy.gif" width="200"/>
   <hr style="border-color: #3498db;">
  
